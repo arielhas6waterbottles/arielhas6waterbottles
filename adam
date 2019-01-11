@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>html website</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  
+<body style="background-color:powderblue;">
+  <center><h1 style="font-family:courier;"><u><font size="7">The Luka Doncic and Dennis Smith Jr Fan Page</u></h1></font>
+    <div id="introduction">
+      <h2 class="center large">About Luka</h2>
+      <p style="text-align:right" id="i1">Luka Doncic (<em >is a god</em>) top tier rookie and the leading canidate for the Rookie of they Year award.<strong></strong> While playing in Spain for the Real Madrid basketball team, he won the 2018 ACB championship.<br/>He was born in Serbia to Sasa Doncic and Mirjam Poterbin, and now plays for the Dallas Mavericks, a NBA team in the US.<br/> Mark Cuban, owner of the Dallas Mavericks, is impressed by Doncic's eating and playing ability.</p>
+      <h2>About DSJ</h2>
+      <ul style="text-align:left" id="e2">
+
+        <li>has a 48 inch vertical and elite speed and athleticism, allowing him to participate in last year's NBA dunk contest</li>
+        <li>made All Rookie First Team last year due to his stats of 15 points, 5 rebounds, and 4 assists</li>
+        <li>he played basketball at North Carolina State University where he averaged 18 points, 5 rebounds, and 6 assists</li>
+        <li>is friends with famous rapper J. Cole as they are both from Fayetteville, North Carolina and have played against each other</li>
+      </ul>
+      <h3 class="white">Why They Are the Next Big Thing</h3>
+      <p style="color:olive;font-size:17px;">As Dennis said himself: “Me and Luk have been playing pickup, and every day we’re on the same team we get the most wins.”
+      Coach Rick Carlisle has said that both players have flair, but in different ways. Both make things happen offensively, again in contrasting styles.:
+        <br>"You got two attacking point guards in our starting lineup," Carlisle said. "That's a pretty good situation. Their chemistry has improved game by game. I view it as a big plus for our team."<br/></p>
+    </div>
+    <div id="blue">
+      <h1>Chemistry</h1>
+      <h4 class="cheese">Dennis Smith Jr. improvement in his outside shooting, his ability to attack closeouts off the catch, and his defensive IQ, fundamentals, and intensity, allow him Luka Doncic to make a fine pairing moving forward.</h4>
+      <ol>
+        <li>He is such an explosive athlete that if the defense isn’t set when he catches the ball, DSJ can get straight to the rim with ease.
+
+It is this ultra-aggressive, blow right by the defender version of Dennis Smith Jr. that usually garners the best results. </li>
+        <br/>
+        <li>Doncic is at his best playing next to another primary creator who can take some of that attention and pressure off of him to carry the load.
+
+Dennis Smith Jr will share that responsibility of running Carlisle’s offense, an offense that coincidentally Carlisle prefers to have multiple playmakers run anyway. </li>
+       <br/>
+        <li>Doncic loves to get out and run and is at his best in the open floor in a transition situation. Dennis Smith Jr. also loves to run the floor and has the athleticism to get out in front of just about anybody. The Smith Jr. and Doncic combo will be deadly on the fast break.</li>
+      </ol>
+      <h2 style="color:grey">Future Potential</h2>
+      <p>Smith showed promise as a playmaking point guard as a rookie, but he may end up as a scoring guard and secondary playmaker next to Doncic. The two could become a dynamic pick-and-roll combination, a look the Mavs have yet to use this season. Smith could turn the corner and get to the rim if the defense sticks to Doncic when he’s setting the screen, while Doncic could make plays rolling to the basket in four-on-three situations if the defense focuses on Smith.</p>
+    </center>
+    </div>
+    <div id="azule">
+      <h1 style="font-size:300%;"><center><i>Highlights<i/></center>
+        <center>
+          <hr style="border-color:orange;"> 
+<iframe width="894" height="503" src="https://www.youtube.com/embed/64-IoBBncdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </center>
+      <center>
+        <iframe width="894" height="503" src="https://www.youtube.com/embed/C3BOgUmxFQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+        </center>
+        </h1>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
